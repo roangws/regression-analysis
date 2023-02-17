@@ -1,10 +1,9 @@
 
 
 <br><h2>Regression Analysis</h2>
-<strong>DAT-5390 | Computational Data Analytics with Python</strong>
+<strong>Computational Data Analytics with Python</strong>
 
-Roan G. W. Salgueiro - MBAN2<br>
-Hult International Business School<br><br><br>
+Roan G. W. Salgueiro<br><br><br>
 
 <hr style="height:.9px;border:none;color:#333;background-color:#333;" />
 
